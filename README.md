@@ -6,12 +6,12 @@ Universidad CEU San Pablo
 
 ## Description
 
-This repository contains the control software and signal processing code for the wearable FMV platform developed as part of my Bachelor's Thesis in Biomedical Engineering.
+This repository contains the source code and CAD models developed for the wearable FMV platform as part of my Bachelor's Thesis in Biomedical Engineering.
 
 This repository includes:
-- Arduino code for ERM motor characterisation.
-- Arduino code for the final wearable FMV platform.
-- Python Jupyter notebooks used for signal processing and vibration frequency analysis.
+- Arduino code for ERM motor characterisation and contol of the final wearable FMV platform.
+- Python Jupyter notebooks: Scripts used for vibration signal processing and frequency analysis.
+- CAD: STL files for the mechanical design of the wearable device.
 
 ## Author
 
